@@ -1,5 +1,5 @@
-let canvas,
-    canvasContext;
+let canvas;
+let canvasContext;
 
 const EYE_RADIUS = 60;
 const PUPIL_RADIUS = 20;
